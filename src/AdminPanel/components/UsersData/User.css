@@ -1,0 +1,40 @@
+.info{
+    margin-top: 2%;
+    margin-left: 5%;
+    scroll-behavior: smooth;
+    overflow: scroll;
+    margin-bottom: 10%;
+
+}
+.info h6 { 
+    font-size: 1.2rem;
+}
+.info p { 
+     border : 2px solid black;
+     padding : 5px ;
+     width: 40%;
+     color: black;
+     padding-left: 10px;
+
+}
+.bookingData{
+    margin-left: 5%;
+    margin-top: 5%;
+    height: 500px;
+    scroll-behavior: smooth;
+    overflow: scroll;
+    margin-bottom: 10%;
+    
+}
+.bookingData p{
+    width: 40%;
+    border : 2px solid black ;
+    padding : 5px ;
+    margin : 1%;
+    border-radius: 10px;
+}
+
+
+#optionsForm{
+    overflow: auto;
+}
